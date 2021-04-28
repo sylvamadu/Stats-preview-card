@@ -277,7 +277,7 @@ footer{
 /* screen width at 320px */
 @media only screen and (max-width: 320px)  {
     .layer{
-        height: 35vh;
+        height: 30vh;
     }
     .info-bg{
         height: 110vh;
